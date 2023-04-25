@@ -1,0 +1,6 @@
+added this from github
+
+normally we don't do this
+
+But,
+we are trying to undestand the consept of getting remote repository
